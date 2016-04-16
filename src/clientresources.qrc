@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="catan-logo">images/catan-logo.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="refresh">images/icons/refresh.png</file>
+        <file>images/icons/room_king.png</file>
+    </qresource>
+    <qresource prefix="/images/cards">
+        <file alias="Wool">images/cards/SheepRecCard.png</file>
+        <file alias="Grain">images/cards/WheatRecCard.png</file>
+        <file alias="Lumber">images/cards/WoodRecCard.png</file>
+        <file alias="Brick">images/cards/BrickRecCard.png</file>
+        <file>images/cards/KnightDevCard.png</file>
+        <file>images/cards/RoadBuilderDevCard.png</file>
+        <file alias="Ore">images/cards/RockRecCard.png</file>
+    </qresource>
+    <qresource prefix="/dice">
+        <file alias="d1">images/dice/dice-1-md.png</file>
+        <file alias="d2">images/dice/dice-2-md.png</file>
+        <file alias="d3">images/dice/dice-3-md.png</file>
+        <file alias="d4">images/dice/dice-4-md.png</file>
+        <file alias="d5">images/dice/dice-5-md.png</file>
+        <file alias="d6">images/dice/dice-6-md.png</file>
+    </qresource>
+    <qresource prefix="/textures/tiles">
+        <file alias="clay">images/textures/tiles/tile_clay.png</file>
+        <file alias="desert">images/textures/tiles/tile_desert.png</file>
+        <file alias="fields">images/textures/tiles/tile_fields.png</file>
+        <file alias="forest">images/textures/tiles/tile_forest.png</file>
+        <file alias="mountains">images/textures/tiles/tile_mountains.png</file>
+        <file alias="pasture">images/textures/tiles/tile_pasture.png</file>
+        <file alias="water">images/textures/tiles/tile_water.png</file>
+        <file alias="water_any">images/textures/tiles/tile_water_any.png</file>
+        <file alias="water_brick">images/textures/tiles/tile_water_brick.png</file>
+        <file alias="water_iron">images/textures/tiles/tile_water_iron.png</file>
+        <file alias="water_wheat">images/textures/tiles/tile_water_wheat.png</file>
+        <file alias="water_wood">images/textures/tiles/tile_water_wood.png</file>
+        <file alias="water_wool">images/textures/tiles/tile_water_wool.png</file>
+    </qresource>
+    <qresource prefix="/textures/chits">
+        <file alias="chit1">images/textures/chits/token.png</file>
+        <file alias="chit2">images/textures/chits/token_skin2.png</file>
+        <file alias="chit3">images/textures/chits/token_skin3.png</file>
+        <file alias="chit4">images/textures/chits/token_skin4.png</file>
+        <file alias="chit5">images/textures/chits/token_skin5.png</file>
+        <file alias="chit6">images/textures/chits/token_skin6.png</file>
+        <file alias="chit7">images/textures/chits/token_skin7.png</file>
+        <file alias="chit8">images/textures/chits/token_skin8.png</file>
+        <file alias="chit9">images/textures/chits/token_skin9.png</file>
+        <file alias="chit10">images/textures/chits/token_skin10.png</file>
+    </qresource>
+</RCC>
